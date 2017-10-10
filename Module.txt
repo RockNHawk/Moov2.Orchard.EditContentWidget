@@ -4,8 +4,8 @@ Author: Moov2
 Website: https://moov2.com
 Version: 0.1
 OrchardVersion: 1.10.2
-Description: Add edit button to the main layout.
+Description: Add an Edit button on the front-end for authenticated users
 Category: Content
 Features:
     Moov2.Orchard.EditContentWidget:
-        Description: Add edit button to the main layout.
+        Description: Add an Edit button on the front-end for authenticated users

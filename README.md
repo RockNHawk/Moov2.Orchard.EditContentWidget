@@ -1,6 +1,6 @@
 # Moov2.Orchard.EditContentWidget
 
-[Orchard](http://www.orchardproject.net/) module providing a part that allows you to add edit button to each page.
+[Orchard](http://www.orchardproject.net/) module adds an Edit button on the front-end for authenticated users.
 
 ## Getting Set Up
 
