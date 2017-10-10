@@ -1,0 +1,11 @@
+﻿Name: Edit Content
+AntiForgery: enabled
+Author: Moov2
+Website: https://moov2.com
+Version: 0.1
+OrchardVersion: 1.10.2
+Description: Add edit button to the main layout.
+Category: Content
+Features:
+    Moov2.Orchard.EditContentWidget:
+        Description: Add edit button to the main layout.
