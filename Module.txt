@@ -1,4 +1,4 @@
-﻿Name: Edit Content
+﻿Name: Edit Content Widget
 AntiForgery: enabled
 Author: Moov2
 Website: https://moov2.com

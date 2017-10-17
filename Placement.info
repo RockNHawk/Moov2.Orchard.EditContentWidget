@@ -1,0 +1,10 @@
+﻿<Placement>
+  <!-- available display shapes -->
+
+  <!--
+  Parts_EditButton
+  -->
+
+  <Place Parts_EditContentWidget="Content:5"/>
+
+</Placement>
