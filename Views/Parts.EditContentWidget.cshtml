@@ -5,6 +5,6 @@
     var widgetContentItem = (ContentItem)Model.ContentItem;
     var authorizedFor = AuthorizedFor(Permissions.EditContent, widgetContentItem);
 }
-@if (authorizedFor && Model.ContentItem.Id > 0 && Model.ContentPart.CurrentContentItem.Id > 0) {
+@if (authorizedFor && Model.ContentItem.Id > 0 && Model.ContentPart.CurrentContentItem != null && Model.ContentPart.CurrentContentItem.Id > 0) {
     <a href="/Admin/Contents/Edit/@Model.ContentPart.CurrentContentItem.Id">@T("Edit")</a>
 }
