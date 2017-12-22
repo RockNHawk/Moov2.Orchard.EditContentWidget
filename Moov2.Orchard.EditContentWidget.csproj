@@ -108,7 +108,7 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Views\Parts.EditContentWidget.cshtml" />
+    <Content Include="Views\Parts.EditContentWidget.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Placement.info" />
